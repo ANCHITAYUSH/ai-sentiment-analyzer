@@ -3,6 +3,9 @@
 ## Project Overview
 A beginner-friendly AI web application that predicts whether English text expresses positive, negative, or neutral sentiment.
 
+## Live Demo
+[Try the AI Sentiment Analyzer](https://anchitguria-ai-sentiment-analyzer.streamlit.app/)
+
 ## Technologies Used
 - Python
 - Hugging Face Transformers
